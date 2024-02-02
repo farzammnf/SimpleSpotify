@@ -1,5 +1,4 @@
 # SimpleSpotify
-# SimpleSpotify
 
 ## Overview
 
