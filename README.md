@@ -15,11 +15,10 @@ The Flutter application complements the backend API by offering an intuitive and
 
 ## Project Structure
 
-The repository is organized into two main directories:
+The repository just contains back-end files : 
 
 - **BackendAPI:** Contains the code for the backend API.
-- **FlutterApp:** Houses the Flutter application source code.
 
-This repository just contains back-end files.
+
 
  `[Farzam Manafzadeh]`, `[AP 1401 Fall project]`
